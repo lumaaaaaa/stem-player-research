@@ -1,0 +1,15 @@
+{
+  "name": "Stem Player Configuration",
+  "parameters":
+  {
+    "SeekJumpPeriod_mSecs":1000,
+    "SeekBuffersToPlay":4,
+    "IsolationRampPeriod_mSecs":50,
+    "IsolationHitBoxSize":10,
+    "MinStemBackgroundLevel":130,
+    "Fast2play":1.25,
+    "Fast1play":1.15,
+    "Slow1play":0.5,
+    "RecordPeriod_secs":60
+  }
+}
